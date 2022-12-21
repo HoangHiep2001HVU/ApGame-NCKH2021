@@ -1,0 +1,158 @@
+{
+  "categories":[
+      {"id": 1, "name": "Học toán"},
+      {"id": 2, "name": "Đố vui"},
+      {"id": 3, "name": "Trò chơi"},
+      {"id": 4, "name": "Nhiệm vụ"}
+  ],
+  "game":[
+    {"id": 1, "name": "Tìm số"},
+    {"id": 2, "name": "Trò chơi 2"},
+    {"id": 3, "name": "Trò chơi 3"},
+    {"id": 4, "name": "Trò chơi 4"}
+  ],
+  "math": [
+    {
+      "id": 1,
+      "name": "Câu 1: Hình trên có mấy con bạch tuộc?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "answer": "4",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/1.gif"
+    },
+    {
+      "id": 2,
+      "name": "Câu 2: Hình trên có mấy quả táo?",
+      "A": "5",
+      "B": "6",
+      "C": "3",
+      "D": "4",
+      "answer": "6",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/2.gif"
+    },
+    {
+      "id": 3,
+      "name": "Câu 3: Hình trên có mấy quả cam?",
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "answer": "7",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/3.gif"
+    },
+    {
+      "id": 4,
+      "name": "Câu 4: Hình trên có mấy con đà điểu?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "answer": "3",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/4.gif"
+    },
+    {
+      "id": 5,
+      "name": "Câu 5: Hình trên có mấy con nai?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "answer": "2",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/5.gif"
+    },
+    {
+      "id": 6,
+      "name": "Câu 6: Hình trên có mấy con chim cú mèo?",
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "answer": "9",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/6.gif"
+    },
+    {
+      "id": 7,
+      "name": "Câu 7: Hình trên có mấy ông mặt trời?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "answer": "1",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/7.gif"
+    }
+  ],
+  "riddle": [
+    {
+      "id": 1,
+      "name": "Câu 1: Hình trên có mấy con bạch tuộc?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "answer": "4",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/1.gif"
+    },
+    {
+      "id": 2,
+      "name": "Câu 2: Hình trên có mấy quả táo?",
+      "A": "5",
+      "B": "6",
+      "C": "3",
+      "D": "4",
+      "answer": "6",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/2.gif"
+    },
+    {
+      "id": 3,
+      "name": "Câu 3: Hình trên có mấy quả cam?",
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "answer": "7",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/3.gif"
+    },
+    {
+      "id": 4,
+      "name": "Câu 4: Hình trên có mấy con đà điểu?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "answer": "3",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/4.gif"
+    },
+    {
+      "id": 5,
+      "name": "Câu 5: Hình trên có mấy con nai?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "answer": "2",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/5.gif"
+    },
+    {
+      "id": 6,
+      "name": "Câu 6: Hình trên có mấy con chim cú mèo?",
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "answer": "9",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/6.gif"
+    },
+    {
+      "id": 7,
+      "name": "Câu 7: Hình trên có mấy ông mặt trời?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "answer": "1",
+      "image": "http://hiepnguyenhvu.tk/hiepnh/data/User/admin/home/AppGame/image/7.gif"
+    }
+  ]
+}
